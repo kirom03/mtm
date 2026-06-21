@@ -183,7 +183,7 @@ const LoginView = ({ setView, doLogin }) => (
         <Bike className="w-12 h-12 text-black" />
       </div>
       <h1 className="text-3xl font-black text-yellow-500 mb-2">MAS TULUNG MAS</h1>
-      <p className="text-zinc-400 mb-8">Aplikasi Layanan Masyarakat Tulungagung</p>
+      <p className="text-zinc-400 mb-8">Aplikasi Layanan Masyarakat </p>
       <div className="space-y-4">
         <input type="email" placeholder="Email" className="w-full bg-zinc-800 p-3 rounded-lg border border-zinc-700 focus:border-yellow-500 outline-none transition-colors text-white" />
         <input type="password" placeholder="Password" className="w-full bg-zinc-800 p-3 rounded-lg border border-zinc-700 focus:border-yellow-500 outline-none transition-colors text-white" />
